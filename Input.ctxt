@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=message
+comment0.target=java.lang.String\ acceptInput(java.lang.String)
+comment0.text=\n\ print\ a\ message\ to\ user,\ then\ accept\ a\ user's\ input,\ finally\ return\ the\ input\ as\ a\ \n\ String\ value.\n\ @return\ The\ input\ of\ the\ user.\n
+numComments=1

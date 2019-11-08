@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ Minimun\ Maximun
+comment0.target=boolean\ stringsLengthWithinRange(java.lang.String,\ int,\ int)
+comment0.text=\n\ Check\ if\ the\ length\ of\ input\ is\ between\ the\ minimun\ number\ and\ the\ maximun\ number.\n\ @param\ s\ The\ input\ String\ type\ message.\n\ @param\ Minumun\ The\ minumun\ number\ to\ limit\ the\ length\ of\ input\ message.\n\ @param\ Maximun\ The\ Maximun\ number\ to\ limit\ the\ length\ of\ input\ message.\n\ @return\ True\ if\ the\ length\ is\ within\ range.Else\ return\ false.\n
+comment1.params=i\ Minimun\ Maximun
+comment1.target=boolean\ WithinRange(int,\ int,\ int)
+comment1.text=\n\ Check\ if\ the\ value\ of\ input\ is\ between\ the\ minimun\ number\ and\ the\ maximun\ number.\n\ @param\ s\ The\ input\ integer\ type\ message.\n\ @param\ Minumun\ The\ minumun\ number\ to\ limit\ the\ value.\n\ @param\ Maximun\ The\ Maximun\ number\ to\ limit\ the\ value.\n\ @return\ True\ if\ the\ value\ is\ within\ range.Else\ return\ false.\n
+numComments=2

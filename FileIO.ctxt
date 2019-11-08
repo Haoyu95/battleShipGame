@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileIO()
+comment0.text=\n\ Create\ a\ object\ with\ default\ constructor.\n
+comment1.params=fileName
+comment1.target=FileIO(java.lang.String)
+comment1.text=\n\ Create\ a\ object\ with\ non-default\ constructor.\n\ @param\ fileName\ The\ name\ of\ the\ file.\ \n
+comment2.params=fileName
+comment2.target=java.lang.String[]\ readFile(java.lang.String)
+comment2.text=\n\ Read\ data\ from\ a\ file\ and\ store\ the\ values\ in\ an\ array\ then\ return\ that\ array.\n\ @param\ fileName\ The\ name\ of\ the\ file\ which\ you\ want\ read\ data\ from.\n\ @return\ An\ array\ which\ contains\ the\ settings\ of\ game.\n\ @throws\ FileNotFoundException\ if\ file\ is\ not\ found.\n
+comment3.params=fileName\ winner\ playerScore\ comuputerScore
+comment3.target=void\ WriteFile(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.text=\n\ Write\ the\ result\ of\ the\ game\ to\ a\ file.\n\ @param\ fileName\ The\ name\ of\ the\ file\ which\ you\ want\ wirte\ data\ to.\n\ @param\ winner\ The\ winner\ of\ the\ game.\n\ @param\ playerScore\ The\ final\ score\ of\ the\ player.\n\ @param\ computerScore\ The\ final\ score\ of\ the\ computer.\n\ @throws\ FileNotFoundException\ if\ file\ is\ not\ found.\n
+numComments=4

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoordinateGenerator()
+comment0.text=\n\ Create\ an\ object\ with\ default\ constructor.\n
+comment1.params=minimumValue\ maximumValue
+comment1.target=CoordinateGenerator(int,\ int)
+comment1.text=\n\ Create\ an\ object\ with\ given\ numbers\ which\ indicate\ its\ range.\n
+comment2.params=minimumValue
+comment2.target=void\ setminimumValue(int)
+comment2.text=\n\ Set\ the\ minimum\ value.\n\ @param\ minimumValue\ The\ minimum\ value.\n
+comment3.params=maximumValue
+comment3.target=void\ setmaximumValue(int)
+comment3.text=\n\ Set\ the\ maximum\ value.\n\ @param\ maximumValue\ The\ maximum\ value.\n
+comment4.params=
+comment4.target=int\ getmaxmumValue()
+comment4.text=\n\ Get\ the\ maximum\ value.\n\ @return\ maximumValue\ The\ maximum\ value.\n
+comment5.params=
+comment5.target=int\ getminimumValue()
+comment5.text=\n\ Get\ the\ minimum\ value.\n\ @return\ minimumValue\ The\ minimum\ value.\n
+comment6.params=
+comment6.target=int\ getRandomNumber()
+comment6.text=\n\ Get\ a\ ramdon\ number.\n\ @return\ a\ ramdom\ number\ between\ maximum\ value\ and\ minimum\ value.\n
+numComments=7

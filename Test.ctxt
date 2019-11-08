@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test()
+comment1.params=s
+comment1.target=int\ method(java.lang.String)
+comment1.text=\n\ An\ example\ of\ a\ method\ \ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=2
